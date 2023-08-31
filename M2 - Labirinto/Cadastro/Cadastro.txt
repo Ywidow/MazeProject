@@ -1,0 +1,60 @@
+<Name>
+	Guilherme
+<Password>
+	1234
+
+<Name>
+	Jorge
+<Password>
+	1234
+
+<Name>
+	pika
+<Password>
+	123
+
+<Name>
+	Gabriel
+<Password>
+	1234
+
+<Name>
+	k
+<Password>
+	45
+
+<Name>
+	f
+<Password>
+	f1
+
+<Name>
+	tw
+<Password>
+	123
+
+<Name>
+	cu
+<Password>
+	porra
+
+<Name>
+	lucas
+<Password>
+	123456
+
+<Name>
+	fe
+<Password>
+	fe
+
+<Name>
+	thomy
+<Password>
+	itajai1
+
+<Name>
+	34
+<Password>
+	4
+
